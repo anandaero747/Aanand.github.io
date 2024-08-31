@@ -27,10 +27,10 @@ header .profile-photo {
     position: absolute;
     top: 20px;
     right: 20px;
-    width: 80px; /* Adjust the size of the photo */
+    width: 100px; /* Adjust the size of the photo */
     height: auto;
-    border-radius: 50%; /* Makes the photo circular */
-    border: 2px solid #ddd; /* Optional: Add a border around the photo */
+/*     border-radius: 50%; /* Makes the photo circular */ */
+/*     border: 2px solid #ddd; /* Optional: Add a border around the photo */ */
 }
 
 header h1 {
